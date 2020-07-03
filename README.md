@@ -4,7 +4,7 @@ Python script that returns player's rank and guild tag based on nickname using H
 # Installation/requirements
 To install, download the .py file and set there your Hypixel API key in it. <br /><br />
 
-Your API keys belongs here: `API_KEY = "enter-your-api-key-here"` <br />
+Your API key belongs here: `API_KEY = "enter-your-api-key-here"` <br />
 To obtain one, join the lobby and type: `/api new`. There are not any other methods to obtain it, except for this. <br /><br />
 
 **!!!** You have to have installed `requests` package. If you have not, open command prompt (or terminal) and execute: `pip install requests` 
